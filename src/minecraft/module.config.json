@@ -1,0 +1,7 @@
+{
+  "module_name": "没有枯叶",
+  "description": "世界生成中移除了枯叶",
+  "support_version": "*",
+  "weight": 0,
+  "breaks": []
+}

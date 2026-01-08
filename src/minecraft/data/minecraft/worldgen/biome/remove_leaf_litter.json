@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:remove_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": [
+    "minecraft:leaf_litter"
+  ],
+  "step": "vegetal_decoration"
+}
