@@ -1,0 +1,21 @@
+{
+  "pack_name": "minecraft-pack-template",
+  "author": "XeKr-Dev",
+  "description": "minecraft-pack-template",
+  "version": "1.0.0",
+  "base_path": "./src",
+  "sets_path": "./sets",
+  "icon": "./icon.png",
+  "main_module": "main",
+  "version_modules": {
+    "version_add_1": {
+      "version": "1.21.1",
+      "strict": true
+    },
+    "version_add_2": {
+      "version": "1.21.1",
+      "strict": false,
+      "target": "add_2"
+    }
+  }
+}
