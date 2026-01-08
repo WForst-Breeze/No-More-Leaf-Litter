@@ -1,7 +1,7 @@
 {
-  "set_name": "minecraft-pack-template-set-01",
-  "description": "测试用01",
+  "set_name": "default",
+  "description": "默认系列",
   "modules": [
-    "minecraft"
+    "nmll"
   ]
 }
